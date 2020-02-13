@@ -14,4 +14,5 @@ U. Murat Erdem (2020). Fast Line Segment Intersection (https://www.mathworks.com
 
 ## Version
 version 1.1.0.0 (3.5 KB) by U. Murat Erde
+
 Forked manually and unaltered from the above URL. All credits go to the original author.
